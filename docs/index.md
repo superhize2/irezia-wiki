@@ -23,3 +23,4 @@ Vous pouvez également cliquer sur les boutons ci-dessous pour avoir plus d'info
 [<span style="font-size:25px">:minecraft-enderpearl:</span> Quêtes ](Quetes/Introduction){: .md-button .md-button--primary }              
 [<span style="font-size:25px">:minecraft-grass:</span> Collections ](#){: .md-button .md-button--primary }              
 [<span style="font-size:25px">:minecraft-mossy-cobblestone:</span> Donjons ](#){: .md-button .md-button--primary }
+.
